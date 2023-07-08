@@ -23,7 +23,7 @@
 logo: $assets.files.images.logo.svg
 logoURL: /Protfolio
 header-item-1: Home
-header-item-2:About
+header-item-2: About
 header-item-3: Experience
 header-item-4: Contact
 header-item-5: Projects
