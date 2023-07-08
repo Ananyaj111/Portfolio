@@ -73,11 +73,11 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Ananya Jhala,
+secondTitle: Ananya,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
-secondTitle: developer
+secondTitle: !developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
